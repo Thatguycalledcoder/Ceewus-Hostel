@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+#carouselExampleCaptions {
+    border: 25px solid black;
+}
+.carousel-inner {
+    margin: 0;
+    padding: 0;
+    height: 92vh;
+}
+img {
+    width: 100%;
+    height: 92vh;
+    background-size: contain;
+}
+.contact-info {
+    height: 700px;
+    max-height: 800px;
+}
